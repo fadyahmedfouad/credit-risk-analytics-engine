@@ -1,0 +1,26 @@
+# Kaggle / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Artifacts and large outputs
+artifacts/
+losses.pkl
+portfolio.csv
+regulatory_report.*
+experiments.csv
+
+# Virtual environments
+venv/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
