@@ -1,45 +1,84 @@
 # Credit Risk Analytics Engine
 
 ## Overview
-This project implements a credit risk analytics engine with:
+Credit risk analytics engine for financial risk modeling and analytics.
 
-- Basel III compliance (LCR & NSFR)
-- Monte Carlo simulation
-- Stress testing
-- ML explainability (SHAP & LIME)
-- Regulatory reporting templates (EBA/ECB style)
-- Interactive analytics
+The project demonstrates:
 
-The project uses synthetic data and is designed for learning and portfolio demonstration.
+✔ Basel III compliance (LCR & NSFR)  
+✔ Monte Carlo simulation  
+✔ Stress testing  
+✔ ML explainability (SHAP & LIME)  
+✔ Regulatory-style reporting  
+✔ Interactive analytics
+
+Built for learning and portfolio demonstration (not production software).
+
+---
 
 ## Features
-✔ Risk simulation  
-✔ Basel metrics  
-✔ AI explainability  
-✔ Experiment tracking  
-✔ Regulatory export  
-✔ Interactive dashboards
+
+- Risk simulation and scenario analysis
+- Basel III liquidity metrics
+- AI model explainability
+- Experiment tracking
+- Regulatory report exports
+- Interactive dashboards
+
+---
 
 ## Tech Stack
+
 - Python
 - Pandas
 - Scikit-learn
 - Plotly
 - SHAP / LIME
-- Kaggle / Jupyter
+- Jupyter Notebook
 
-## Usage
-Run the notebook or main code cell to generate artifacts and reports.
+---
 
 ## Dataset
-Data source:  
+
+Source (credit risk data):
+
+👉 Lending Club Dataset  
 https://www.kaggle.com/datasets/wordsforthewise/lending-club
 
-Dataset provider:  
-:contentReference[oaicite:0]{index=0} loan data (used for credit risk modeling).
+Synthetic data used for modeling (educational purpose).
+
+---
+
+## Usage
+
+Run Jupyter Notebook or main code cell to:
+
+✔ Simulate risk  
+✔ Generate reports  
+✔ Visualize results  
+✔ Explain model decisions
+
+---
+
+## Portfolio Value
+
+This project demonstrates:
+
+✔ Financial risk analytics  
+✔ ML explainability  
+✔ Regulatory understanding  
+✔ Data-driven decision making
+
+Skills relevant to banking and consulting roles.
+
+---
+
 ## Disclaimer
-This project uses synthetic data and is for educational purposes only.
-It is not production financial software.
+
+Educational project only. Not financial advice or production software.
+
+---
 
 ## License
+
 MIT License
