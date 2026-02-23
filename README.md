@@ -31,6 +31,12 @@ The project uses synthetic data and is designed for learning and portfolio demon
 ## Usage
 Run the notebook or main code cell to generate artifacts and reports.
 
+## Dataset
+Data source:  
+https://www.kaggle.com/datasets/wordsforthewise/lending-club
+
+Dataset provider:  
+:contentReference[oaicite:0]{index=0} loan data (used for credit risk modeling).
 ## Disclaimer
 This project uses synthetic data and is for educational purposes only.
 It is not production financial software.
